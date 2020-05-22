@@ -1,0 +1,67 @@
+*{
+	margin: 0px;
+	padding: 0px;
+    background: grey;
+    margin: auto;
+}
+
+#contenedor{
+	width: 800px;
+	height: 800px;
+}
+
+h1{
+	font-size: 60px;
+	text-align: center;
+	font-family: 'Roboto';
+	color:white; 
+	text-decoration: underline;
+	text-shadow: 2px 1px 5px black;
+}
+
+p{
+	font-family: 'Roboto';
+	margin: 35px;
+	padding: 35px;
+	border:solid;
+	
+}
+
+img	{
+	position: relative;
+	left: 200px;
+}
+
+.viruela:hover{
+	color:white;
+	background:#630C0B;
+
+}
+
+.sarampion:hover{
+	background:#7F41A0;
+	color:white;
+}
+
+.espanola:hover{
+	background:#D68019;
+	color:white;
+}
+
+.peste:hover{
+	background:#3D932B;
+	color:white;
+}
+
+.vih:hover{
+	background:#14789C;
+	color:white;
+}
+
+.tifus:hover{
+	background:#8E0B4E;
+	color:white;
+}
+
+
+
